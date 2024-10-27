@@ -1,20 +1,20 @@
 ### Hi 👋
-<!--
-- 🌱 I’m currently learning ...
+
+- 🌱 I’m currently learning Python to construct bioinformatcis pipeline
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
 
 - 🔭 I’m currently working on ...
-
+<!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-
-
-
-![Xiaodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaodli&repo=xiaodli)
-
-![Xiaodong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaodli&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
 -->
+
+
+![Xiaodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaodli&repo=xiaodli&theme=tokyonight)
+
+![Xiaodong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaodli&bg_color=#FFDEAD&line=24292e&&area=true)
+
