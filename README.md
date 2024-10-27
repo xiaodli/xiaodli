@@ -1,8 +1,20 @@
-- [**Some links**](#some-links)
+### Hi there 👋
 
-## **Some links**<br>
-:smiley:zhibowang ,yinwang and other people's web  :sunglasses:<br>
-- [https://wzbtech.com](https://wzbtech.com/ "zhibowang 's web")<br>
-- [https://typecho.org](https://typecho.org/)<br>
-- [https://jekyllcn.com/](https://jekyllcn.com/)<br>
-- 
+<!--
+**dirtycomputer/dirtycomputer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+
+[![Xiaodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaodli)]
+
+[![Xiaodong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaodong&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]
