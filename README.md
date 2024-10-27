@@ -16,5 +16,5 @@
 
 ![Xiaodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaodli&repo=xiaodli&theme=tokyonight)
 
-![Xiaodong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaodli&bg_color=#FFDEAD&line=24292e&&area=true)
+![Xiaodong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaodli&bg_color=FFE4B5&area_color=00FF7F&color=8A2BE2&line=24292e&&area=true&hide_border=true)
 
