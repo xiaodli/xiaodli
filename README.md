@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Xiaodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaodli)]
+![Xiaodong's GitHub stats](https://github-readme-stats.vercel.app/api?username=xiaodli)
 
-[![Xiaodong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaodong&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)]
+![Xiaodong's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xiaodli&bg_color=fffff0&color=708090&line=24292e&point=24292e&area=true&hide_border=true)
